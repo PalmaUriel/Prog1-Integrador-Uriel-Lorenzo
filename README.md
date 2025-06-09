@@ -15,3 +15,4 @@ Este repositorio contiene el Trabajo Práctico Integrador de Programación 1.
 El tema elegido fue Análisis de Algoritmos.
 Se trabajo utilizando funciones y ciclos.
 Demuestra la importancia en la eficiencia de los Algoritmos según el tiempo y los recursos utilizados por el hardware para la ejecución de los códigos.
+Enlace al video sobre el proyecto: https://youtu.be/ZYtwa9ePWD0?si=qHgxUmaZ5HW0A6mr
